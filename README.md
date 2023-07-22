@@ -1,1 +1,1 @@
-# Script Needed: loadstring(game:HttpGet("UrlHere",true))();
+loadstring(game:HttpGet("UrlHere",true))();
